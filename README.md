@@ -6,6 +6,7 @@ DATA: Kaggle -> merged_data.csv(861.07 MB)
 https://www.kaggle.com/datasets/priyankraval/nurse-stress-prediction-wearable-sensors
 
 TOOLS: Python (pandas,numpy, matplotlib, seaborn, sklearn (model selection, ensemble, metrics))
+
 MODELS: LogisticRegression, RandomForestClassifier, GradientBoostingClassifier, XGBClassifier
 
 GOALS:
